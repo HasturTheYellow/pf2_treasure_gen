@@ -46,6 +46,11 @@ python npc_generator.py
 
 A new image formated as this npc_YYYYMMDD_HHMMSS.jpg will be created.
 
+With the base script, you can add a few things, including:
+* Loop to create a high numbers of npc at once.
+* Add img.show() at the end to see the image immediately
+* Add a boolean to save the file or not (with img.show())
+
 ## Authors
 * Akarius
 
