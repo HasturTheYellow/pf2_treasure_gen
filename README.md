@@ -4,6 +4,7 @@
 ### Description
 This simple script takes random images from the faces and attributes images folder and create a full image of npc.
 You will need the digital version of the [Deck of Endless NPC from Paizo](https://paizo.com/products/btq02d82)
+If the images are not 520x372, you will need to either change it to this format or change the vars in the script.
 
 
 ### Requirements
