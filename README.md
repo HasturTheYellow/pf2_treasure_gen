@@ -27,13 +27,17 @@ data_root = r'F:\PATH\TO\IMAGES\ROOT'
 ```
 
 You have to put all the face images in the folder 'Faces'
+
 You have to put all the attributes images in a folder 'Attributes'
+
 You need to create an output folder 'NPC'
 
 The result should be like this:
 
 face images in F:\PATH\TO\IMAGES\ROOT\Faces
+
 attributes images in F:\PATH\TO\IMAGES\ROOT\Attributes
+
 output images will go in F:\PATH\TO\IMAGES\ROOT\NPC
 
 You can change the name of these folders in the script if you want
