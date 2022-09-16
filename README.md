@@ -45,7 +45,8 @@ Just open a command window and change folder to where the script is and type
 python npc_generator.py
 ```
 
-A new image formated as this npc_YYYYMMDD_HHMMSS.jpg will be created.
+A new image formated as this npc_YYYYMMDD_HHMMSS.jpg will be created.  
+[Example of random output](https://imgur.com/5nWAMfI)
 
 With the base script, you can add a few things, including:
 * Loop to create a high numbers of npc at once.
