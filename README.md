@@ -48,7 +48,7 @@ python Treasure_generator.py
 ```
 
 A new image formated as this Treasure_YYYYMMDD_HHMMSS.jpg will be created.  
-[Example of random output](https://imgur.com/5nWAMfI)
+[Example of random output](https://imgur.com/a/PVu2evE)
 
 With the base script, you can add a few things, including:
 * Loop to create a high numbers of Treasure at once.
