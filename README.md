@@ -6,6 +6,8 @@ This simple script takes random images from the faces and attributes images fold
 You will need the digital version of the [Deck of Endless Treasure from Paizo](https://paizo.com/products/btq0bszz?Pathfinder-Deck-of-Endless-Treasure)
 If the images are not 744x1039, you will need to either change it to this format or change the vars in the script.
 
+This is a Fork of the Random NPC Generator, using Paizo's Deck of Endless NPCs, from Akarius. Variables have been edited, all other work is theirs.
+
 
 ### Requirements
 Tested with [Python 3.7](https://www.python.org/downloads/)
