@@ -44,7 +44,7 @@ You can change the name of these folders in the script if you want
 ### USAGE
 Just open a command window and change folder to where the script is and type
 ```
-python Treasure_generator.py
+python treasure_generator.py
 ```
 
 A new image formated as this Treasure_YYYYMMDD_HHMMSS.jpg will be created.  
