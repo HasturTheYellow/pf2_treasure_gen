@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: iso-8859-15 -*-
 """
-Project Generator from Deck of Endless NPC
+Project Generator from Deck of Endless Treasure
 Description:
 This script create a random treasure piece from the Deck of Endless Treasure cards in image format.
 The image have to be separate in two seperate folders: faces and attributes
